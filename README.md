@@ -2,7 +2,7 @@
 
 
 - 🌱 I'm currently learning React and I’m working on create my personal portfolio for a front end job
-- ⚡ Fun fact: Fun fact: 🤔...Maybe... I love cute pink stuff, as much as I enjoy metal like black atmospheric metal and doom.
+- ⚡ Fun fact: 🤔...Maybe... I love cute pink stuff, as much as I enjoy metal like black atmospheric metal and doom.
 
 <!--
 **Narian9/Narian9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
