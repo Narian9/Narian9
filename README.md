@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 
-- 🌱 I'm currently learning React, Java and I’m working on create my personal portfolio for a front end job
+- 🌱 I'm currently learning React, Java and I’m working on create my personal portfolio for my first tech job
 - ⚡ Fun fact: 🤔...Maybe... I love cute pink stuff, as much as I enjoy metal like black atmospheric metal and doom.
 
 <!--
