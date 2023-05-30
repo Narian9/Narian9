@@ -3,7 +3,8 @@
 
 - 🌱 I'm currently learning React, Java and I’m working on create my personal portfolio for my first tech job
 - ⚡ Fun fact: 🤔...Maybe... I love cute pink stuff, as much as I enjoy metal like black atmospheric metal and doom.
-Some projects:
+
+### Some projects: 😄
 - ⚡ Encrypter challenge (spanish, #CSS, #html, #JS): https://narian9.github.io/Challenge-encriptador/
 - ⚡ To-do (spanish, #CSS, #html, #JS): https://narian9.github.io/todo-list/
 <!--
