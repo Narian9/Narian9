@@ -11,7 +11,7 @@
 - 💬 Search-results-page: https://narian9.github.io/2-Search-results-page/
 
 ### Teamwork: 👯
-- 🌱 SweetCommerce: https://sergiormz.github.io/sweetCommerce/
+- 🌱 SweetCommerce(#JSvanilla #Bootstrap, #CSS, #HTML, #Railway & #MySQL): https://sergiormz.github.io/sweetCommerce/
 - 🌱 SweetCommerce (JAVA, Spring boot): https://github.com/Narian9/sweetCommerceBack
 
 <!--
